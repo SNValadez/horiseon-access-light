@@ -17,3 +17,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title. 
+
+<img src="./assets/images/01-html-css-git-homework-demo.png" />
+
+Live URL for "Horiseon" refactor assignment (Weekly Challenge): https://snvaladez.github.io/horiseon-access-light/
+
+GitHub URL: https://github.com/SNValadez/horiseon-access-light 
